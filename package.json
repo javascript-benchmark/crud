@@ -49,8 +49,8 @@
   "dependencies": {
     "@nestjs/common": "^9.0.0",
     "@nestjs/core": "^9.0.0",
-    "@nestjs/platform-express": "^9.0.0",
-    "@nestjs/swagger": "5.2.1",
+    "@nestjs/platform-express": "^10.4.2",
+    "@nestjs/swagger": "7.4.1",
     "@nestjs/testing": "^9.0.0",
     "@nestjs/typeorm": "^9.0.0",
     "@zmotivat0r/mrepo": "0.8.1",
